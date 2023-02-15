@@ -1,4 +1,4 @@
-# API Fetch with (load more)
+# Public API Fetch with (load more)
 ```
 npm i
 ```
